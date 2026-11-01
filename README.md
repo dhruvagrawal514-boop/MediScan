@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ MediScan
+# MediScan
 
 ### Verify medicine instantly.
 
@@ -15,26 +15,25 @@ Point your phone camera at a medicine pack and MediScan's AI reads the label, ch
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<img src="docs/screenshot.png" alt="MediScan landing page" width="100%" />
 
 </div>
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
-- [About](#-about)
-- [How It Works](#-how-it-works)
-- [Key Features](#-key-features)
-- [What MediScan Checks](#-what-mediscan-checks)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Roadmap](#-roadmap)
-- [Author](#-author)
+- [About](#about)
+- [How It Works](#how-it-works)
+- [Key Features](#key-features)
+- [What MediScan Checks](#what-mediscan-checks)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Roadmap](#roadmap)
+- [Author](#author)
 
 ---
 
-## 💡 About
+## About
 
 **The problem:** counterfeit and substandard medicines are a serious public-health risk in India and worldwide, and expired stock still reaches shelves. A buyer standing at a pharmacy counter has no quick way to tell whether the strip in their hand is genuine.
 
@@ -42,7 +41,7 @@ Point your phone camera at a medicine pack and MediScan's AI reads the label, ch
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ```mermaid
 flowchart LR
@@ -58,7 +57,7 @@ flowchart LR
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 | Feature | Description |
 |---|---|
@@ -74,7 +73,7 @@ flowchart LR
 
 ---
 
-## 🔍 What MediScan Checks
+## What MediScan Checks
 
 | Field | What the AI looks for |
 |---|---|
@@ -88,7 +87,7 @@ flowchart LR
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -103,7 +102,7 @@ flowchart LR
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 **Prerequisites:** [Node.js](https://nodejs.org) 18+ and a [Google Gemini API key](https://aistudio.google.com/app/apikey).
 
@@ -132,7 +131,7 @@ firebase deploy
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [x] Camera scan and AI label extraction
 - [x] Pass / warning / fail verification
@@ -144,7 +143,7 @@ firebase deploy
 
 ---
 
-## 👤 Author
+## Author
 
 **Dhruv Agrawal**
 
