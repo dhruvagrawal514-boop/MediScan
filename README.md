@@ -20,19 +20,6 @@ Point your phone camera at a medicine pack and MediScan's AI reads the label, ch
 
 ---
 
-## Table of Contents
-
-- [About](#about)
-- [How It Works](#how-it-works)
-- [Key Features](#key-features)
-- [What MediScan Checks](#what-mediscan-checks)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Roadmap](#roadmap)
-- [Author](#author)
-
----
-
 ## About
 
 **The problem:** counterfeit and substandard medicines are a serious public-health risk in India and worldwide, and expired stock still reaches shelves. A buyer standing at a pharmacy counter has no quick way to tell whether the strip in their hand is genuine.
